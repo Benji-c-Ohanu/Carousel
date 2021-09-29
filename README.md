@@ -4,9 +4,10 @@ The carousel indicates a collection or 'filmstrip' of images that move in a step
 
 This file contains a static webpage that illustrates an automatic sliding carousel which can also be changed using contol buttons.
 
+![Screenshot 2021-09-29 at 20-42-46 CAROUSEL](https://user-images.githubusercontent.com/59982887/135337675-9950eb95-de2c-4b1c-b9f8-4ce0784770b7.png)
+
 ![Screenshot 2021-09-29 at 20-00-45 CAROUSEL](https://user-images.githubusercontent.com/59982887/135337075-6d6f83bc-cb8b-449c-ba14-25338929275e.png)
 
-![Screenshot 2021-09-29 at 20-42-46 CAROUSEL](https://user-images.githubusercontent.com/59982887/135337675-9950eb95-de2c-4b1c-b9f8-4ce0784770b7.png)
 
 TECHNOLOGIES 
 FILE STRUCTURE
